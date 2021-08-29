@@ -2,8 +2,10 @@ cargo-features = ["edition2021"]
 
 [package]
 name = "accordion"
+description = "A UI library for designing responsive status-lines"
 version = "0.1.0"
 edition = "2021"
+licence = "LGPL-3.0-only"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
